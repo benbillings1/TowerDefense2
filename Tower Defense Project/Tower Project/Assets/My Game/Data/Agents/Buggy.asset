@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 910bcb715cd3344619df786cb0658efb, type: 3}
-  m_Name: AgentConfiguration
+  m_Name: Buggy
   m_EditorClassIdentifier: 
   agentName: 
   agentDescription: 
-  agentPrefab: {fileID: 0}
+  agentPrefab: {fileID: 7459974920304610336, guid: 58e6d61fecb77d84ba36e5931d4fb5d1,
+    type: 3}
