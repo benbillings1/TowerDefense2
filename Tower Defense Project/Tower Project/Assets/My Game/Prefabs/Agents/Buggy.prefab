@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 7459974920304610336}
   - component: {fileID: 7459974920304610337}
   - component: {fileID: 7459974920304610342}
+  - component: {fileID: 8578372984561486131}
   m_Layer: 0
   m_Name: Buggy
   m_TagString: Untagged
@@ -64,7 +65,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   description: 
-  projectile: {fileID: 0}
+  projectile: {fileID: 367521628808578910, guid: 22786a411252ced489ec6c2349555163,
+    type: 3}
   projectilePoints: []
   epicenter: {fileID: 0}
   isMultiAttack: 0
@@ -142,6 +144,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damageableBehaviour: {fileID: 0}
   damageScale: 1
+--- !u!114 &8578372984561486131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7459974920304610343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59d007c1fe5e41c1888e4af3392f8676, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  initialPoolCapacity: 10
 --- !u!1 &7459974920646829432
 GameObject:
   m_ObjectHideFlags: 0
