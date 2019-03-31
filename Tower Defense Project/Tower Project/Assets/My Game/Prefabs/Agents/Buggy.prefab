@@ -68,7 +68,8 @@ MonoBehaviour:
   projectile: {fileID: 367521628808578910, guid: 22786a411252ced489ec6c2349555163,
     type: 3}
   projectilePoints: []
-  epicenter: {fileID: 0}
+  epicenter: {fileID: 2384434241332027795, guid: 1c5397d8d5e8b1047bf53a4f44cbce03,
+    type: 3}
   isMultiAttack: 0
   fireRate: 0
   randomAudioSource: {fileID: 0}
