@@ -13,11 +13,7 @@ MonoBehaviour:
   m_Name: LevelList
   m_EditorClassIdentifier: 
   levels:
-  - id: 
-    name: 
-    description: 
-    sceneName: 
-  - id: 
-    name: 
+  - id: 0
+    name: Level_1
     description: 
     sceneName: 
